@@ -234,6 +234,6 @@ if st.button("Predict (Detailed)", type="secondary"):
 st.markdown("""
     <hr style="border: 1px solid #e91e63;">
     <div style="text-align: center; color: #880e4f; font-size: 14px; padding-top: 10px;">
-        © All rights reserved by <strong>Dania & Wahaj 2025</strong>
+        © All rights reserved by <strong>Dania 2025</strong>
     </div>
 """, unsafe_allow_html=True)
