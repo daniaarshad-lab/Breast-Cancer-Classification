@@ -1,7 +1,8 @@
 import streamlit as st
 import numpy as np
 import joblib
-from keras.models import load_model
+from tensorflow.keras.models import load_model
+
 
 # Page config (must be first Streamlit command)
 st.set_page_config(page_title="Breast Cancer Detection", layout="centered")
